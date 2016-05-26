@@ -63,7 +63,7 @@ public class Problem003 {
 		return currentMax;
 	}
 
-	public static void main(String[] args) {
-		System.out.println(new Problem003().lengthOfLongestSubstring("pwwkew"));
-	}
+//	public static void main(String[] args) {
+//		System.out.println(new Problem003().lengthOfLongestSubstring("pwwkew"));
+//	}
 }
